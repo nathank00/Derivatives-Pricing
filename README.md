@@ -1,4 +1,4 @@
-## This repo contains all of my derivatives pricing models, including:
+# This repo contains all derivatives pricing models.
 
 ### File 1: A standard Black-Scholes theoretical options pricer with inputs for all variables (BS_standard.ipynb)
 
