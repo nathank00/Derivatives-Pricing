@@ -1,6 +1,8 @@
-## This repo has all of my derivatives pricing models, including:
-### A standard Black-Scholes theoretical pricer with inputs for all variables (BS_standard.ipynb)
-### a monte carlo simulation that takes user inputs for the variable values, with subsequent calculations based on the BS equation and referencing Yahoo Finance data using the yahoo_fin package (BS_montecarlo.py)
+## This repo contains all of my derivatives pricing models, including:
+
+### File 1: A standard Black-Scholes theoretical options pricer with inputs for all variables (BS_standard.ipynb)
+
+### File 2: A Monte-Carlo simulation that takes user inputs for the variable values, with subsequent calculations based on the Black-Scholes equation and referencing Yahoo Finance data using the yahoo_fin package (BS_montecarlo.py)
 
 
 
