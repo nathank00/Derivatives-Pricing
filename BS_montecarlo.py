@@ -157,3 +157,5 @@ if __name__ == "__main__":
     
     if option == 'put' or option == 'Put':
         print("\nProjected Put option price: ", model.put_option_simulation())
+
+        
